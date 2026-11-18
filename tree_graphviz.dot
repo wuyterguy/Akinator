@@ -1,0 +1,6 @@
+digraph G {
+
+bgcolor = "transparent"
+node [shape = none];
+
+}
